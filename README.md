@@ -37,7 +37,7 @@ All learning roadmaps in one place. Pinned for quick access.
 
 ## Platform
 
-Browse all roadmaps at [tp-coder.vercel.app](https://tp-coder.vercel.app)
+Browse all roadmaps at [hub.tpcoder.dev](https://hub.tpcoder.dev)
 
 ## Org
 
