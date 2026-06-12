@@ -34,11 +34,3 @@ All learning roadmaps in one place. Pinned for quick access.
 | ❌ [Cloud Developer](https://www.youtube.com/playlist?list=PLm3A9eDaMzung5XmJYiPSxlUcocpuZlqF) | 7 | AWS/GCP/Azure fundamentals for developers |
 | ❌ [DevOps Engineer](https://github.com/TP-Coder-Innovation-Hub/devops-engineer) | 7 | CI/CD, containers, IaC, observability |
 | ❌ [AI Agent Developer](https://github.com/TP-Coder-Innovation-Hub/learning-content/tree/main/agents) | 10 | Build AI agents — tools, RAG, guardrails, evals |
-
-## Platform
-
-Browse all roadmaps at [tp-coder-platform.vercel.app](https://tp-coder-platform.vercel.app)
-
-## Org
-
-All repos live at [github.com/TP-Coder-Innovation-Hub](https://github.com/TP-Coder-Innovation-Hub)
